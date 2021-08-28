@@ -1,2 +1,2 @@
 # Welcome!
- This is private repository.
+ Welcome to dattatray-gund!
