@@ -8,7 +8,8 @@
 # Hello there👋! I'm [Dattatray](https://github.com/dattatray-gund) 🙋‍♂️
 
 
-### 📊 My Github Stats
-  <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=dattatray-gund&count_private=true&show_icons=true&theme=tokyonight" alt="Dattatray Gund | Stats" />
+ ### 📊 My Github Stats
+  <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=dattatray-gund&show_icons=true&theme=tokyonight" alt="Dattatray Gund | Stats" />
 
->>>>>>> ### THANKS YOU
+
+> ## THANKS YOU
