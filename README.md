@@ -1,5 +1,6 @@
 # Welcome!
- Welcome to dattatray-gund!
+
+## Welcome to dattatray-gund!
 
  <p align="center">
   <img src="https://github.com/PatilShreyas/PatilShreyas/blob/master/welcome.png?raw=true" height="200" />
