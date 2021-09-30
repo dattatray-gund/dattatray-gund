@@ -2,12 +2,13 @@
 
 ## Welcome to dattatray-gund!
 
+
  <p align="center">
   <img src="https://github.com/PatilShreyas/PatilShreyas/blob/master/welcome.png?raw=true" height="200" />
 </p>
 
-# Hello there👋! I'm [Dattatray](https://github.com/dattatray-gund) 🙋‍♂️
 
+# Hello there👋!
 
  ### 📊 My Github Stats
 
@@ -15,6 +16,6 @@
 
 ---
 
-> ## THANKS YOU
+> ## THANK YOU
 
 ---
